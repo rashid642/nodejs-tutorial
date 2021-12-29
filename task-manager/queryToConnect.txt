@@ -1,0 +1,3 @@
+/Users/Dell/mongodb/bin/mongod.exe --dbpath=/Users/Dell/mongodb-data
+
+npm run dev -->to start
